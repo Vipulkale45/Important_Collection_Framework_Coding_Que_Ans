@@ -1,3 +1,4 @@
+//Write a Java program to create a LinkedList and add elements into it.
 package JAP82.Collection.LinkedList;
 
 import java.util.LinkedList;
