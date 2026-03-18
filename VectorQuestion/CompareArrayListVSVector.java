@@ -1,4 +1,4 @@
-package JAP82.Collection.VectorQue;
+package JAP82.Collection.VectorQuestion;
 
 import java.util.ArrayList;
 import java.util.Vector;

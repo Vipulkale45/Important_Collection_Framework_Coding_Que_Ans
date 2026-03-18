@@ -1,4 +1,4 @@
-package JAP82.Collection.VectorQue;
+package JAP82.Collection.VectorQuestion;
 
 import java.util.Enumeration;
 import java.util.Vector;
